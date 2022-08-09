@@ -7,7 +7,8 @@
 
 ### 📌 Instalando o GIT:
 
-* No Link disponibilzado no Readme, você pode fazer download e instalar o Git no seu PC.
+* <strong>Instalar o Git.</strong><br>Clique para Instalar 👇 <br>
+[<img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width=115><br>](https://git-scm.com/downloads)<br>
 
 ### 📌 Criando o Projeto:
 
@@ -58,3 +59,10 @@
 * Primeiro devemos retornar para nossa Branch Principal, para isso digite `git checkout main`.
 * Agora para juntar a Branch "develop" à "main", digite `git merge develop`.
 * Por fim, digite `git push origin main`, para mandar tudo para o Github.
+
+<div align="center">
+
+<br>Feito por <a href="https://www.linkedin.com/in/ewerton-alexander-780869232/" target="_blank">Ewerton Alexander</a>!
+    <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👨‍🚀</g-emoji><br>
+  
+ </div>
