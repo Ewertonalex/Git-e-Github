@@ -3,7 +3,7 @@
 
 ### 📌 Criando uma Conta no Github:
 
-* No Link disponibilzado no Readme, você pode acessar e criar sua conta, caso já tenha uma conta no Github, faça login.
+* No site https://github.com/ , você pode acessar e criar sua conta, caso já tenha uma conta no Github, faça login.
 
 ### 📌 Instalando o GIT:
 
